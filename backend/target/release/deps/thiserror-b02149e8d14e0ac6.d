@@ -1,0 +1,10 @@
+/Users/pellegrini.ch/Desktop/rugpaperscissors/backend/target/release/deps/libthiserror-b02149e8d14e0ac6.rmeta: /Users/pellegrini.ch/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thiserror-1.0.69/src/lib.rs /Users/pellegrini.ch/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thiserror-1.0.69/src/aserror.rs /Users/pellegrini.ch/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thiserror-1.0.69/src/display.rs /Users/pellegrini.ch/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thiserror-1.0.69/src/provide.rs
+
+/Users/pellegrini.ch/Desktop/rugpaperscissors/backend/target/release/deps/libthiserror-b02149e8d14e0ac6.rlib: /Users/pellegrini.ch/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thiserror-1.0.69/src/lib.rs /Users/pellegrini.ch/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thiserror-1.0.69/src/aserror.rs /Users/pellegrini.ch/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thiserror-1.0.69/src/display.rs /Users/pellegrini.ch/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thiserror-1.0.69/src/provide.rs
+
+/Users/pellegrini.ch/Desktop/rugpaperscissors/backend/target/release/deps/thiserror-b02149e8d14e0ac6.d: /Users/pellegrini.ch/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thiserror-1.0.69/src/lib.rs /Users/pellegrini.ch/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thiserror-1.0.69/src/aserror.rs /Users/pellegrini.ch/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thiserror-1.0.69/src/display.rs /Users/pellegrini.ch/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thiserror-1.0.69/src/provide.rs
+
+/Users/pellegrini.ch/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thiserror-1.0.69/src/lib.rs:
+/Users/pellegrini.ch/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thiserror-1.0.69/src/aserror.rs:
+/Users/pellegrini.ch/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thiserror-1.0.69/src/display.rs:
+/Users/pellegrini.ch/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thiserror-1.0.69/src/provide.rs:
