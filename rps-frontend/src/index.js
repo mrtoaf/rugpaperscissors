@@ -1,17 +1,40 @@
+// src/index.js
 import React from 'react';
-import ReactDOM from 'react-dom/client';
-import './index.css';
+import ReactDOM from 'react-dom';
 import App from './App';
-import reportWebVitals from './reportWebVitals';
+import { WalletAdapterNetwork } from '@solana/wallet-adapter-base';
+import {
+  ConnectionProvider,
+  WalletProvider,
+} from '@solana/wallet-adapter-react';
+import {
+  WalletModalProvider,
+  WalletMultiButton
+} from '@solana/wallet-adapter-react-ui';
+import {
+  PhantomWalletAdapter,
+  // Add other wallets here if needed
+} from '@solana/wallet-adapter-wallets';
 
-const root = ReactDOM.createRoot(document.getElementById('root'));
-root.render(
+import '@solana/wallet-adapter-react-ui/styles.css';
+import { ChakraProvider } from '@chakra-ui/react';
+
+const wallets = [
+  new PhantomWalletAdapter(),
+  // Add other wallets here
+];
+
+ReactDOM.render(
   <React.StrictMode>
-    <App />
-  </React.StrictMode>
+    <ConnectionProvider endpoint="http://127.0.0.1:8899">
+      <WalletProvider wallets={wallets} autoConnect>
+        <WalletModalProvider>
+          <ChakraProvider>
+            <App />
+          </ChakraProvider>
+        </WalletModalProvider>
+      </WalletProvider>
+    </ConnectionProvider>
+  </React.StrictMode>,
+  document.getElementById('root')
 );
-
-// If you want to start measuring performance in your app, pass a function
-// to log results (for example: reportWebVitals(console.log))
-// or send to an analytics endpoint. Learn more: https://bit.ly/CRA-vitals
-reportWebVitals();
