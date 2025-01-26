@@ -5,7 +5,7 @@
  * IDL can be found at `target/idl/rps_game.json`.
  */
 export type RpsGame = {
-  "address": "28AfQg9jGzkW9tJw9zQ857ncvuUnnNHE4vGb4pLpPLRM",
+  "address": "4yCtf1y6Wpsfpxt62Xbc5cWRpx7veikVDQbYkJQEzM7U",
   "metadata": {
     "name": "rpsGame",
     "version": "0.1.0",

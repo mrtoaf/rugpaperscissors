@@ -6,7 +6,7 @@ use sha2::{Digest, Sha256};
 // ------------------------------------
 // Declare the program ID
 // ------------------------------------
-declare_id!("28AfQg9jGzkW9tJw9zQ857ncvuUnnNHE4vGb4pLpPLRM");
+declare_id!("4yCtf1y6Wpsfpxt62Xbc5cWRpx7veikVDQbYkJQEzM7U");
 
 // ------------------------------------
 // Constants
