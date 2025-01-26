@@ -19,6 +19,8 @@ import {
 import '@solana/wallet-adapter-react-ui/styles.css';
 import { ChakraProvider } from '@chakra-ui/react';
 
+const network = WalletAdapterNetwork.Localnet; // Change to 'Devnet' if using devnet
+
 const wallets = [
   new PhantomWalletAdapter(),
   // Add other wallets here
@@ -26,7 +28,7 @@ const wallets = [
 
 ReactDOM.render(
   <React.StrictMode>
-    <ConnectionProvider endpoint="http://127.0.0.1:8899">
+    <ConnectionProvider endpoint="http://127.0.0.1:8899"> {/* Update if using Devnet */}
       <WalletProvider wallets={wallets} autoConnect>
         <WalletModalProvider>
           <ChakraProvider>

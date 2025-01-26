@@ -1,14 +1,15 @@
 // src/anchor.js
 import { AnchorProvider, Program, web3, BN } from '@project-serum/anchor';
 import idl from './idl/rps_game.json';
+import { useMemo } from 'react';
 
-// Configure the cluster (use 'localnet' for local development)
-const network = 'http://127.0.0.1:8899'; // Update if using devnet or mainnet
+// Configure the network to connect to (Localnet or Devnet)
+const network = 'http://127.0.0.1:8899'; // Update if using Devnet
 
-// Create a connection to the cluster
+// Create a connection to the Solana cluster
 const connection = new web3.Connection(network, 'processed');
 
-// Set up the wallet (assumes Phantom wallet extension)
+// Access the wallet (Phantom)
 const wallet = window.solana;
 
 // Check if the wallet is connected
@@ -16,7 +17,7 @@ if (!wallet) {
   alert("Please install a Solana wallet like Phantom to use this app.");
 }
 
-// Create a provider
+// Create the provider
 const provider = new AnchorProvider(connection, wallet, AnchorProvider.defaultOptions());
 
 // Initialize the program

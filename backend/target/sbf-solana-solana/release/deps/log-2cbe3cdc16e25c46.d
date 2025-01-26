@@ -1,0 +1,10 @@
+/Users/christopherpellegrini/Desktop/rugpaperscissors/backend/target/sbf-solana-solana/release/deps/liblog-2cbe3cdc16e25c46.rmeta: /Users/christopherpellegrini/.cargo/registry/src/index.crates.io-6f17d22bba15001f/log-0.4.25/src/lib.rs /Users/christopherpellegrini/.cargo/registry/src/index.crates.io-6f17d22bba15001f/log-0.4.25/src/macros.rs /Users/christopherpellegrini/.cargo/registry/src/index.crates.io-6f17d22bba15001f/log-0.4.25/src/serde.rs /Users/christopherpellegrini/.cargo/registry/src/index.crates.io-6f17d22bba15001f/log-0.4.25/src/__private_api.rs
+
+/Users/christopherpellegrini/Desktop/rugpaperscissors/backend/target/sbf-solana-solana/release/deps/liblog-2cbe3cdc16e25c46.rlib: /Users/christopherpellegrini/.cargo/registry/src/index.crates.io-6f17d22bba15001f/log-0.4.25/src/lib.rs /Users/christopherpellegrini/.cargo/registry/src/index.crates.io-6f17d22bba15001f/log-0.4.25/src/macros.rs /Users/christopherpellegrini/.cargo/registry/src/index.crates.io-6f17d22bba15001f/log-0.4.25/src/serde.rs /Users/christopherpellegrini/.cargo/registry/src/index.crates.io-6f17d22bba15001f/log-0.4.25/src/__private_api.rs
+
+/Users/christopherpellegrini/Desktop/rugpaperscissors/backend/target/sbf-solana-solana/release/deps/log-2cbe3cdc16e25c46.d: /Users/christopherpellegrini/.cargo/registry/src/index.crates.io-6f17d22bba15001f/log-0.4.25/src/lib.rs /Users/christopherpellegrini/.cargo/registry/src/index.crates.io-6f17d22bba15001f/log-0.4.25/src/macros.rs /Users/christopherpellegrini/.cargo/registry/src/index.crates.io-6f17d22bba15001f/log-0.4.25/src/serde.rs /Users/christopherpellegrini/.cargo/registry/src/index.crates.io-6f17d22bba15001f/log-0.4.25/src/__private_api.rs
+
+/Users/christopherpellegrini/.cargo/registry/src/index.crates.io-6f17d22bba15001f/log-0.4.25/src/lib.rs:
+/Users/christopherpellegrini/.cargo/registry/src/index.crates.io-6f17d22bba15001f/log-0.4.25/src/macros.rs:
+/Users/christopherpellegrini/.cargo/registry/src/index.crates.io-6f17d22bba15001f/log-0.4.25/src/serde.rs:
+/Users/christopherpellegrini/.cargo/registry/src/index.crates.io-6f17d22bba15001f/log-0.4.25/src/__private_api.rs:

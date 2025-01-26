@@ -1,6 +1,6 @@
 Streaming transaction logs mentioning 28AfQg9jGzkW9tJw9zQ857ncvuUnnNHE4vGb4pLpPLRM. Confirmed commitment
-Transaction executed in slot 11:
-  Signature: 2CyYWwHvWfdiTnJvPM86TRtgVyJxHkQVwfYhX3vknMhRrTTWZWRch6TRd7L3KRReSaPsbvFoB5HKabbpwFYhhDb3
+Transaction executed in slot 6:
+  Signature: 2jNBuwDSqrTNm1vUWFAWVgQqxyYdm199CqC6S4JWNmhuHTGVqfnASymjwvLnyagHK57m2o1ZjowjGtYtABs85HBm
   Status: Ok
   Log Messages:
     Program 28AfQg9jGzkW9tJw9zQ857ncvuUnnNHE4vGb4pLpPLRM invoke [1]
@@ -9,10 +9,10 @@ Transaction executed in slot 11:
     Program 11111111111111111111111111111111 success
     Program 11111111111111111111111111111111 invoke [2]
     Program 11111111111111111111111111111111 success
-    Program 28AfQg9jGzkW9tJw9zQ857ncvuUnnNHE4vGb4pLpPLRM consumed 10693 of 200000 compute units
+    Program 28AfQg9jGzkW9tJw9zQ857ncvuUnnNHE4vGb4pLpPLRM consumed 12193 of 200000 compute units
     Program 28AfQg9jGzkW9tJw9zQ857ncvuUnnNHE4vGb4pLpPLRM success
-Transaction executed in slot 12:
-  Signature: VRkQLft9iGggfPBXEawUkyWQqczohjTRf55oYgtuP1BWfmZQgr8feQ5ffGaa2YPXMxw8j85ggqHAW8tqus28xJ8
+Transaction executed in slot 7:
+  Signature: 5fvRxHeHobvML9k1mNpui3CSw221ViT8rLEtEtJC9UHE6uyEUCEYKzRE6wKXao6iunqPiBv2W5eHh6BfAnn5HyaL
   Status: Ok
   Log Messages:
     Program 28AfQg9jGzkW9tJw9zQ857ncvuUnnNHE4vGb4pLpPLRM invoke [1]
@@ -21,41 +21,50 @@ Transaction executed in slot 12:
     Program 11111111111111111111111111111111 success
     Program 28AfQg9jGzkW9tJw9zQ857ncvuUnnNHE4vGb4pLpPLRM consumed 5073 of 200000 compute units
     Program 28AfQg9jGzkW9tJw9zQ857ncvuUnnNHE4vGb4pLpPLRM success
-Transaction executed in slot 14:
-  Signature: 2CdQZFSALT1vsaayDLZCkUd1RucaU3wiepvaXCcv1uoFzvBpnvR8ahuYbATuoAtCcrbs1zdN8GsD179m1jah8RDv
+Transaction executed in slot 9:
+  Signature: 5JNWGwx9oxp9fXpaC9Vd9TqUhut3xw4Gvpf9sm1cBPb3TQsDRpwsLaiDE2KHZZWdz3h4ZJnKkm6uCFpeM1UaUJxB
   Status: Ok
   Log Messages:
     Program 28AfQg9jGzkW9tJw9zQ857ncvuUnnNHE4vGb4pLpPLRM invoke [1]
     Program log: Instruction: SelectMove
     Program 28AfQg9jGzkW9tJw9zQ857ncvuUnnNHE4vGb4pLpPLRM consumed 10743 of 200000 compute units
     Program 28AfQg9jGzkW9tJw9zQ857ncvuUnnNHE4vGb4pLpPLRM success
-Transaction executed in slot 15:
-  Signature: 3thYsWiaWEDAsKd1wuVW9pKYzkXzuWhfX59JD7DF9jH9BzyJdkPmKAnpQtb8LvHgQTaQYTYTTdjPy1FmCJ7LXndd
+Transaction executed in slot 10:
+  Signature: zqhso5nREDbSEXAqQ1soFYHwL3ktQ3uuLATd3DtTAatHY423eg9fDv3SQ1WnKRZiU2ukw1QJDt4hLUst7PsTRpM
   Status: Ok
   Log Messages:
     Program 28AfQg9jGzkW9tJw9zQ857ncvuUnnNHE4vGb4pLpPLRM invoke [1]
     Program log: Instruction: SelectMove
     Program 28AfQg9jGzkW9tJw9zQ857ncvuUnnNHE4vGb4pLpPLRM consumed 10735 of 200000 compute units
     Program 28AfQg9jGzkW9tJw9zQ857ncvuUnnNHE4vGb4pLpPLRM success
-Transaction executed in slot 17:
-  Signature: 2Ycgk9DN3GtCii59gKh2GW7Rqz54j89qp3qKw5L3RmgPG15MFHtgDAzMHsZ9DGR6k3Zx5cbAejVCF4pYX2fRpwf4
+Transaction executed in slot 12:
+  Signature: 5sJrDzpi1pyPDAWwAP6eu17vaBtXt21xc3oS9swfrTn2f34GKwWgaECrtUqNrGf11PLnPzcWKPUusHJk8UQ3wbv8
   Status: Ok
   Log Messages:
     Program 28AfQg9jGzkW9tJw9zQ857ncvuUnnNHE4vGb4pLpPLRM invoke [1]
     Program log: Instruction: ReadyUp
     Program 28AfQg9jGzkW9tJw9zQ857ncvuUnnNHE4vGb4pLpPLRM consumed 3128 of 200000 compute units
     Program 28AfQg9jGzkW9tJw9zQ857ncvuUnnNHE4vGb4pLpPLRM success
-Transaction executed in slot 18:
-  Signature: 5ZX7gwyhkkrsoL873hZ8cKDu7p8nVLaPrGyUQsVCYh7Z4rD65byT8REbAv5eFtkpnWCRGQLtjQCfxD4dSNJJDpEd
+Transaction executed in slot 12:
+  Signature: 33igKEq2ffk4nA1byQgQq9eTRJ8dEHq29EEjQ9KJ2TPeDHmKr7kN7qtFnuCXCZudu8ez3F5AJQBeqqiC2RrCLN6o
   Status: Ok
   Log Messages:
     Program 28AfQg9jGzkW9tJw9zQ857ncvuUnnNHE4vGb4pLpPLRM invoke [1]
     Program log: Instruction: ReadyUp
     Program log: Creator wins!
-    Program 28AfQg9jGzkW9tJw9zQ857ncvuUnnNHE4vGb4pLpPLRM consumed 3292 of 200000 compute units
+    Program 28AfQg9jGzkW9tJw9zQ857ncvuUnnNHE4vGb4pLpPLRM consumed 3300 of 200000 compute units
     Program 28AfQg9jGzkW9tJw9zQ857ncvuUnnNHE4vGb4pLpPLRM success
-Transaction executed in slot 21:
-  Signature: 4UDyGdVCmLndbJ8KJQw91XaRMzsAMeP9BdagFpxc5vw5vtwVpoJ7W1RgSZgyvSv9RkZ8YQ5bbwiYjTrjbTotPqsH
+Transaction executed in slot 13:
+  Signature: 33igKEq2ffk4nA1byQgQq9eTRJ8dEHq29EEjQ9KJ2TPeDHmKr7kN7qtFnuCXCZudu8ez3F5AJQBeqqiC2RrCLN6o
+  Status: Ok
+  Log Messages:
+    Program 28AfQg9jGzkW9tJw9zQ857ncvuUnnNHE4vGb4pLpPLRM invoke [1]
+    Program log: Instruction: ReadyUp
+    Program log: Creator wins!
+    Program 28AfQg9jGzkW9tJw9zQ857ncvuUnnNHE4vGb4pLpPLRM consumed 3300 of 200000 compute units
+    Program 28AfQg9jGzkW9tJw9zQ857ncvuUnnNHE4vGb4pLpPLRM success
+Transaction executed in slot 16:
+  Signature: 3QJYnCfpZoB1Cg5xGq1qSoS4DLEfcGweNWFPEtTK4KwUT7XpC53gWLPSu1fEFzQeUxQA7MGeK189aLAbX43ikdCt
   Status: Ok
   Log Messages:
     Program 28AfQg9jGzkW9tJw9zQ857ncvuUnnNHE4vGb4pLpPLRM invoke [1]
@@ -66,8 +75,8 @@ Transaction executed in slot 21:
     Program 11111111111111111111111111111111 success
     Program 28AfQg9jGzkW9tJw9zQ857ncvuUnnNHE4vGb4pLpPLRM consumed 10693 of 200000 compute units
     Program 28AfQg9jGzkW9tJw9zQ857ncvuUnnNHE4vGb4pLpPLRM success
-Transaction executed in slot 22:
-  Signature: 53RQRujF2b1gWa3UtHDGNowpkXup8DuGVcBab629zX7ddZGhGq76PXr9MHvRrWNy6KyBMjtCPzyNF8xVYGQPXsUw
+Transaction executed in slot 16:
+  Signature: DWoxfNqstuvXCahYkSM4HzYhxdetAJHjekAyp25kHHPCcs7aMjxh6i2roofcD6fcfmMnPLe9GR1mHHVqDcYMBS2
   Status: Ok
   Log Messages:
     Program 28AfQg9jGzkW9tJw9zQ857ncvuUnnNHE4vGb4pLpPLRM invoke [1]
@@ -76,3 +85,22 @@ Transaction executed in slot 22:
     Program 11111111111111111111111111111111 success
     Program 28AfQg9jGzkW9tJw9zQ857ncvuUnnNHE4vGb4pLpPLRM consumed 5073 of 200000 compute units
     Program 28AfQg9jGzkW9tJw9zQ857ncvuUnnNHE4vGb4pLpPLRM success
+Transaction executed in slot 17:
+  Signature: DWoxfNqstuvXCahYkSM4HzYhxdetAJHjekAyp25kHHPCcs7aMjxh6i2roofcD6fcfmMnPLe9GR1mHHVqDcYMBS2
+  Status: Ok
+  Log Messages:
+    Program 28AfQg9jGzkW9tJw9zQ857ncvuUnnNHE4vGb4pLpPLRM invoke [1]
+    Program log: Instruction: JoinGame
+    Program 11111111111111111111111111111111 invoke [2]
+    Program 11111111111111111111111111111111 success
+    Program 28AfQg9jGzkW9tJw9zQ857ncvuUnnNHE4vGb4pLpPLRM consumed 5073 of 200000 compute units
+    Program 28AfQg9jGzkW9tJw9zQ857ncvuUnnNHE4vGb4pLpPLRM success
+Transaction executed in slot 17:
+  Signature: 3jgnhU8GbR8bM9EKEH3ih9U9HjA58BDum4pwE56nhKpLY8mniwSYjxsxKTrdSdj7CSdWqfL8WG5XLvdzWc5ZN8PC
+  Status: Error processing Instruction 0: custom program error: 0x1771
+  Log Messages:
+    Program 28AfQg9jGzkW9tJw9zQ857ncvuUnnNHE4vGb4pLpPLRM invoke [1]
+    Program log: Instruction: ReadyUp
+    Program log: AnchorError thrown in programs/rps_game/src/lib.rs:150. Error Code: MoveNotSelected. Error Number: 6001. Error Message: The player has not selected a move..
+    Program 28AfQg9jGzkW9tJw9zQ857ncvuUnnNHE4vGb4pLpPLRM consumed 4470 of 200000 compute units
+    Program 28AfQg9jGzkW9tJw9zQ857ncvuUnnNHE4vGb4pLpPLRM failed: custom program error: 0x1771
