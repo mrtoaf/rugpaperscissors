@@ -1,36 +1,48 @@
-# Rust/Anchor build
-.anchor
-target
+# Build artifacts
+**/target/**
+**/dist/**
+**/.anchor/**
+**/test-ledger/**
+.program/
 **/*.rs.bk
-dist/
 
-# Node
-node_modules
+# Dependencies
+**/node_modules/**
+**/frontend/node_modules/**
+
+# Environment and config
+**/.env*
 .env
+.config
+
+# Cache and temp files
+**/.cache/**
+**/private/**
+.cache/
+
+# IDE and OS
+**/.DS_Store
 .DS_Store
-
-# Test artifacts
-test-ledger
-
-# IDEs
-.vscode
-.idea
-
-# Solana program deploys
-.program
+**/.vscode/**
+**/.idea/**
+.vscode/
+.idea/
 
 # Logs
 *.log
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
-
-# Line ending and log files
 *.log.*
 validator.log*
 rocksdb/
 
-# Test/local blockchain data
+# Test data
 test-ledger/
+test-data/
+coverage/
 
-**/target/**
+# Solana specific
+.keypair
+*.keypair
+wallet.json
