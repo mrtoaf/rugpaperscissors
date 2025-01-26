@@ -33,10 +33,4 @@ rocksdb/
 # Test/local blockchain data
 test-ledger/
 
-/backend/target/
-.anchor/
-**/target/
-**/.DS_Store
-**/node_modules/
-**/.invoked.timestamp
-
+**/target/**
