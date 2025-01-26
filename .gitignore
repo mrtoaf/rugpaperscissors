@@ -24,3 +24,12 @@ test-ledger
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+
+# Line ending and log files
+*.log.*
+validator.log*
+rocksdb/
+
+# Test/local blockchain data
+test-ledger/
+
